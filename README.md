@@ -28,7 +28,7 @@
 - ``CSS`` code
 
 ```css
-    body 
+body 
 {
   background:#390053;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
