@@ -145,3 +145,9 @@ button:hover
         }
     }
 ```
+
+### LICENSE
+
+- **MIT License**
+
+- *Copyright (c) 2021* ``Subadra Poshitha``
