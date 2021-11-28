@@ -13,6 +13,7 @@
 ## ReadMe Card
 
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AiDarkEzio&repo=Stop-Watch&theme=nightowl)](https://github.com/AiDarkEzio/Stop-Watch)
+- Or ``https://youtu.be/xXs6nVpWUAw``
 
 ### __CODE__
 
