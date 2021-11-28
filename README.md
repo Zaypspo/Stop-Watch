@@ -8,7 +8,11 @@
 
 ## You can follow youtube video
 
-- `It's Createing`
+- [![Youtube Video](https://i9.ytimg.com/vi_webp/xXs6nVpWUAw/mqdefault.webp?v=61a312c1&sqp=CISqjI0G&rs=AOn4CLAITsmEBpkLEf8oNvcFAeHYY7pWqA)](https://youtu.be/xXs6nVpWUAw)
+
+## ReadMe Card
+
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AiDarkEzio&repo=Stop-Watch&theme=nightowl)](https://github.com/AiDarkEzio/Stop-Watch)
 
 ### __CODE__
 
