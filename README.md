@@ -8,7 +8,7 @@
 
 ## You can follow youtube video
 
-- [![Youtube Video](https://i9.ytimg.com/vi_webp/xXs6nVpWUAw/mqdefault.webp?v=61a312c1&sqp=CISqjI0G&rs=AOn4CLAITsmEBpkLEf8oNvcFAeHYY7pWqA)](https://youtu.be/xXs6nVpWUAw)
+- [![Youtube Video](https://github.com/zeqanpx/Stop-Watch/blob/main/img/img.png)](https://youtu.be/xXs6nVpWUAw)
 - Or ``https://youtu.be/xXs6nVpWUAw``
 
 ## ReadMe Card
